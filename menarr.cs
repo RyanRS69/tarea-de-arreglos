@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Arreglos_viernes
+namespace tarea_lunes
 {
     class Program
     {
