@@ -24,9 +24,9 @@ namespace Arreglos_viernes
                 Console.WriteLine("|                                                                   |       .     *  °      .                 ");
                 Console.WriteLine("|___________________________________________________________________|      .  °              .             ");
                 Console.WriteLine("                                                                          . . . . . . . . . . .               ");
-                Console.WriteLine(" > Cunántos elemtnos tendrá?                                                       ....                      ");
-                Console.WriteLine("                                                                                   ....                    ");
                 Console.WriteLine("                                                                                   ....                      ");
+                Console.WriteLine("                                                                                   ....                    ");
+                Console.WriteLine(">Ingrese el número de actividad:                                                   ....                      ");
 
                 try
                 {
